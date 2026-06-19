@@ -1,2 +1,2 @@
 # ess_mobile
-Emloyee Self Sevice
+Employee Self Sevice
