@@ -1,0 +1,11 @@
+{
+  "latest_version": "1.0.6",
+  "min_version": "1.0.4",
+  "force_update": false,
+  "apk_url": "https://github.com/imamerpi/ess_mobile/raw/main/latest/app-release.apk",
+  "changelog": [
+    "Perbaikan bug sinkronisasi absensi",
+    "Peningkatan kinerja antarmuka aplikasi",
+    "Pembaruan keamanan sistem login"
+  ]
+}
