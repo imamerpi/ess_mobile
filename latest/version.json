@@ -1,11 +1,11 @@
 {
-  "latest_version": "1.0.6",
+  "latest_version": "1.0.7",
   "min_version": "1.0.4",
   "force_update": false,
-  "apk_url": "https://github.com/imamerpi/ess_mobile/releases/download/v1.0.6/app-release.apk",
+  "apk_url": "https://github.com/imamerpi/ess_mobile/releases/download/v1.0.7/app-release.apk",
   "changelog": [
-    "Perbaikan bug sinkronisasi absensi",
+    "Reminder Check in/out absensi",
     "Peningkatan kinerja antarmuka aplikasi",
-    "Pembaruan keamanan sistem login"
+    "Pembaruan pemeriksaan update"
   ]
 }
